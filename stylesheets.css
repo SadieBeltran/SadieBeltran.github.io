@@ -28,6 +28,10 @@
   	color: white;
 }
 
+h2{
+	font-size: 15px;
+}
+
 .overlay{
 	position: absolute;
 	bottom: 0;
@@ -54,9 +58,9 @@
 
 .ints { /*Interests picture*/
 	position: relative;
-	margin: 2.5%;
+	margin: 1%;
 	float: left;
-	max-width: 28%;
+	max-width: 18%;
 	max-height: 30%;
 }
 
