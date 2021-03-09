@@ -1,3 +1,9 @@
+body{
+	background-image: url('media/bg.png');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
 #profile {
 	max-width: 25%;
 	max-height: 25%;
@@ -28,6 +34,9 @@
   	color: white;
 }
 
+h1{
+	color: white;
+}
 h2{
 	font-size: 15px;
 }
@@ -48,6 +57,7 @@ h2{
 	text-align: center;
 	margin-top: 0;
 	margin-bottom: 0;
+	color: white;
 }
 
 .main {
